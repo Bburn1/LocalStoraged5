@@ -1,0 +1,18 @@
+:root {
+  --back-color: rgb(247, 250, 212);
+  --primary-color: #000000;
+  --header-back: #abe1f1;
+  --header-text: rgb(0, 0, 0);
+}
+body {
+  background-color: rgb(247, 250, 212);
+  color: #000000;
+}
+
+header {
+  background-color: #abe1f1;
+  color: rgb(0, 0, 0);
+}
+
+
+
